@@ -8,7 +8,7 @@ function TopBar() {
         <div className="topbar">
             <div className="container">
                 <img width="120.92" src={facebookImg} alt="Facebook" />
-                <a href="#">Meu Perfil</a>
+                <a href="#">Meu Perfil <i className="material-icons">account_circle</i></a>
             </div>
         </div>
     );
