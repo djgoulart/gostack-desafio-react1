@@ -1,0 +1,23 @@
+.comment {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.comment img {
+  margin-right: 10px;
+}
+
+.comment p {
+  margin: 0;
+  background: #EEEEEE;
+  border-radius: 20px;
+  padding: 10px 15px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 20px;
+  color: #3E3E3E;
+}

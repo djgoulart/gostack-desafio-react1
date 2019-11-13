@@ -1,0 +1,8 @@
+.post-list {
+    width: 100%;
+    max-width: 720px;
+    margin: 20px auto 0 auto;
+    max-height: 800px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

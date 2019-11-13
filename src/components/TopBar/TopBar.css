@@ -1,0 +1,31 @@
+.topbar {
+    background: #4A90E2;
+    max-width: 1024px;
+    height: 64px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbar .container {
+    width: 100%;
+    max-width: 906px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.topbar a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
